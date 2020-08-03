@@ -1,6 +1,6 @@
 # Dragon Programming Language 🐲 🚀
 
-<img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/gh-header-image-1.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
+<img src="https://github.com/dragon-language-projects/dragon-language-projects/blob/master/dragon-lang.png" alt="Dragon programming language">
 Dragon Programming Language 🐲 is an innovative and general purpose programming language that can be used for developing console and GUI applications. Dragon is cross platform and supports different systems, Dragon language is trying to be natural, simple, flexible, easy and fast. 🔥 🚀 The language has two versions that works on JVM and LLVM. 💻 
 
 <p align="center">Website for Dragon ⬇</p>
